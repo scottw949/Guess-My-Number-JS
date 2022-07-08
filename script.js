@@ -11,6 +11,8 @@ document.querySelector('.score').textContent = 10;
 console.log(document.querySelector('.guess').value);
 */
 
+console.log('git test');
+
 //random number
 let randNum = Math.trunc(Math.random() * 20) + 1;
 let score = 20;
