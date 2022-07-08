@@ -1,5 +1,7 @@
 'use strict';
 
+//Commit 07/07/2022
+
 //random number
 let randNum = Math.trunc(Math.random() * 20) + 1;
 let score = 20;
